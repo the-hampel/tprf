@@ -7,6 +7,7 @@ Copyright (C) 2018-2019, The Simons Foundation
 
 Copyright (C) 2019-2021, S. Käser
 
+our changes
 
 TPRF is a TRIQS application containing various tools for working with
 two particle response functions.
